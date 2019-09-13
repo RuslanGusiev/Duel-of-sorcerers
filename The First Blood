@@ -12,6 +12,6 @@ for i in range(len(gandalf)):
 if gandalf_win > saruman_win:
     print('Gandalf won!')
 elif gandalf_win < saruman_win:
-    print('Saruman won')
+    print('Saruman won!')
 else:
     print('Friendship won!')
