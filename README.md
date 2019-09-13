@@ -21,9 +21,13 @@ Print
 Bonus
 
 Spells now have a name and there is a dictionary that relates that name to a power.
+
 A sorcerer wins if he succeeds in winning 3 spell clashes in a row.
+
 Average of each of the spell lists.
+
 Standard deviation of each of the spell lists.
+
 POWER = {
     'Fireball': 50, 
     'Lightning bolt': 40, 
